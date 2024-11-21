@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "id": { "type": "integer" },
+    "date": { "type": "string", "format": "date" },
+    "destination": { "type": "string" },
+    "origin": { "type": "string" },
+    "userId": { "type": "integer" }
+  },
+  "required": ["id", "date", "destination", "origin", "userId"]
+}
