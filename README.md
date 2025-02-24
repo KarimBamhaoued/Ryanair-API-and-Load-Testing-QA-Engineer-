@@ -1,9 +1,5 @@
 
-SOLUTION OF RYANAIR API and Load Testing QA Engineer PROBLEM BEFORE THE TECHNICAL INTERVIEW (TECHNICAL REQUIREMENTS WERE NOT MET NEEDS MODIFICATION)
 
- including both karate and restassured tests in the same project led to some duplication, as the same positive test cases were repeated across Karate and RestAssured.
-There were no negative test cases.
-Hardcoded data in the create requests can limit flexibility and scalability, and dynamic data handling is generally preferred.  
 
 
 # How to Run the Tests
